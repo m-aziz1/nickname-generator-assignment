@@ -1,0 +1,38 @@
+html {
+  background: url("/images/background.png") center;
+}
+
+body {
+  text-align: center;
+  margin: 25px auto;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: red;
+}
+
+hr {
+  width: 80%;
+}
+
+button {
+  background-color: maroon;
+  color: white;
+  padding: 4px;
+  cursor: pointer;
+}
+
+.empty {
+  border: solid 2px red;
+}
+
+#replace-img {
+  border: solid 2px midnightblue;
+  display: none;
+}
+
+span {
+  font-size: 25px;
+}
